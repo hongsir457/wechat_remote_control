@@ -101,10 +101,10 @@ with open('wechat_chat.log', encoding='utf-8') as f:
 
 ```python
 import sys
-sys.path.insert(0, r'C:\Users\86139\Desktop\appdevelopment\wechat_remote_control')
+sys.path.insert(0, r'C:\...\wechat_remote_control')
 from notify import notify
 
-notify("任务完成！共处理 15 张图纸")
+notify("任务完成！共处理 15 个文件")
 ```
 
 ---
